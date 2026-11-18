@@ -1,0 +1,300 @@
+{
+  "zh-Hans": [
+    {
+      "text": "春眠不觉晓，处处闻啼鸟。——孟浩然",
+      "author": "孟浩然",
+      "work": "春晓",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "spring"
+      ]
+    },
+    {
+      "text": "好雨知时节，当春乃发生。——杜甫",
+      "author": "杜甫",
+      "work": "春夜喜雨",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "spring",
+        "weather:rain"
+      ]
+    },
+    {
+      "text": "小荷才露尖尖角，早有蜻蜓立上头。——杨万里",
+      "author": "杨万里",
+      "work": "小池",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "summer"
+      ]
+    },
+    {
+      "text": "接天莲叶无穷碧，映日荷花别样红。——杨万里",
+      "author": "杨万里",
+      "work": "晓出净慈寺送林子方",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "summer",
+        "weather:clear"
+      ]
+    },
+    {
+      "text": "停车坐爱枫林晚，霜叶红于二月花。——杜牧",
+      "author": "杜牧",
+      "work": "山行",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "autumn"
+      ]
+    },
+    {
+      "text": "湖光秋月两相和，潭面无风镜未磨。——刘禹锡",
+      "author": "刘禹锡",
+      "work": "望洞庭",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "autumn",
+        "weather:clear"
+      ]
+    },
+    {
+      "text": "晚来天欲雪，能饮一杯无？——白居易",
+      "author": "白居易",
+      "work": "问刘十九",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "winter",
+        "weather:snow"
+      ]
+    },
+    {
+      "text": "遥知不是雪，为有暗香来。——王安石",
+      "author": "王安石",
+      "work": "梅花",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "winter"
+      ]
+    },
+    {
+      "text": "但愿人长久，千里共婵娟。——苏轼",
+      "author": "苏轼",
+      "work": "水调歌头·明月几时有",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "mid-autumn"
+      ]
+    },
+    {
+      "text": "今夜月明人尽望，不知秋思落谁家。——王建",
+      "author": "王建",
+      "work": "十五夜望月寄杜郎中",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "mid-autumn"
+      ]
+    }
+  ],
+  "zh-Hant": [
+    {
+      "text": "春眠不覺曉，處處聞啼鳥。——孟浩然",
+      "author": "孟浩然",
+      "work": "春曉",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "spring"
+      ]
+    },
+    {
+      "text": "好雨知時節，當春乃發生。——杜甫",
+      "author": "杜甫",
+      "work": "春夜喜雨",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "spring",
+        "weather:rain"
+      ]
+    },
+    {
+      "text": "小荷才露尖尖角，早有蜻蜓立上頭。——楊萬里",
+      "author": "楊萬里",
+      "work": "小池",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "summer"
+      ]
+    },
+    {
+      "text": "接天蓮葉無窮碧，映日荷花別樣紅。——楊萬里",
+      "author": "楊萬里",
+      "work": "曉出淨慈寺送林子方",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "summer",
+        "weather:clear"
+      ]
+    },
+    {
+      "text": "停車坐愛楓林晚，霜葉紅於二月花。——杜牧",
+      "author": "杜牧",
+      "work": "山行",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "autumn"
+      ]
+    },
+    {
+      "text": "湖光秋月兩相和，潭面無風鏡未磨。——劉禹錫",
+      "author": "劉禹錫",
+      "work": "望洞庭",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "autumn",
+        "weather:clear"
+      ]
+    },
+    {
+      "text": "晚來天欲雪，能飲一杯無？——白居易",
+      "author": "白居易",
+      "work": "問劉十九",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "winter",
+        "weather:snow"
+      ]
+    },
+    {
+      "text": "遙知不是雪，為有暗香來。——王安石",
+      "author": "王安石",
+      "work": "梅花",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "winter"
+      ]
+    },
+    {
+      "text": "但願人長久，千里共嬋娟。——蘇軾",
+      "author": "蘇軾",
+      "work": "水調歌頭·明月幾時有",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "mid-autumn"
+      ]
+    },
+    {
+      "text": "今夜月明人盡望，不知秋思落誰家。——王建",
+      "author": "王建",
+      "work": "十五夜望月寄杜郎中",
+      "source": "https://github.com/chinese-poetry/chinese-poetry",
+      "rights": "古典原文，作者逝世逾百年。来源数据项目标注 MIT。",
+      "tags": [
+        "mid-autumn"
+      ]
+    }
+  ],
+  "ja": [
+    {
+      "text": "古池や蛙飛び込む水の音",
+      "author": "松尾芭蕉",
+      "work": "古池の句",
+      "source": "https://www.aozora.gr.jp/cards/001310/files/55509_53180.html",
+      "rights": "古典俳句の原文。松尾芭蕉は1694年没。",
+      "tags": [
+        "spring"
+      ]
+    },
+    {
+      "text": "閑さや岩にしみ入る蝉の声",
+      "author": "松尾芭蕉",
+      "work": "おくのほそ道",
+      "source": "https://crd.ndl.go.jp/reference/detail?page=ref_view&id=1000310770",
+      "rights": "1689年の古典俳句。松尾芭蕉は1694年没。",
+      "tags": [
+        "summer"
+      ]
+    },
+    {
+      "text": "秋ふかき隣は何をする人ぞ",
+      "author": "松尾芭蕉",
+      "work": "秋ふかきの句",
+      "source": "https://www.aozora.gr.jp/cards/000067/files/47566_44414.html",
+      "rights": "古典俳句の原文のみ。松尾芭蕉は1694年没。",
+      "tags": [
+        "autumn"
+      ]
+    },
+    {
+      "text": "狂句こがらしの身は竹斎に似たるかな",
+      "author": "松尾芭蕉",
+      "work": "野ざらし紀行",
+      "source": "https://www.aozora.gr.jp/cards/001310/files/55609_53062.html",
+      "rights": "古典俳句の原文。松尾芭蕉は1694年没。",
+      "tags": [
+        "winter",
+        "weather:wind"
+      ]
+    }
+  ],
+  "en": [
+    {
+      "text": "A host, of golden daffodils;",
+      "author": "William Wordsworth",
+      "work": "I Wandered Lonely as a Cloud",
+      "source": "https://www.gutenberg.org/ebooks/8774",
+      "rights": "English original, first published in 1807; author died in 1850.",
+      "tags": [
+        "spring"
+      ]
+    },
+    {
+      "text": "Shall I compare thee to a summer’s day?",
+      "author": "William Shakespeare",
+      "work": "Sonnet 18",
+      "source": "https://www.gutenberg.org/ebooks/1041",
+      "rights": "English original, first published in 1609; author died in 1616.",
+      "tags": [
+        "summer"
+      ]
+    },
+    {
+      "text": "Season of mists and mellow fruitfulness!",
+      "author": "John Keats",
+      "work": "To Autumn",
+      "source": "https://www.gutenberg.org/files/19221/19221-h/19221-h.htm",
+      "rights": "English original, first published in 1820; author died in 1821.",
+      "tags": [
+        "autumn",
+        "weather:fog"
+      ]
+    },
+    {
+      "text": "When icicles hang by the wall",
+      "author": "William Shakespeare",
+      "work": "Love’s Labour’s Lost, Act V, Scene II",
+      "source": "https://www.gutenberg.org/ebooks/1510",
+      "rights": "English original, printed in 1598; author died in 1616.",
+      "tags": [
+        "winter"
+      ]
+    }
+  ]
+}
